@@ -1,0 +1,35 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/xkj/Desktop/算法题/1035
+-- The C compiler identification is AppleClang 12.0.0.12000032
+CMake Error at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:232 (file):
+  file problem creating directory:
+  /Users/xkj/Desktop/算法题/1035/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX
+Call Stack (most recent call first):
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:32 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/CMakeDetermineCXXCompiler.cmake:111 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:232 (file):
+  file problem creating directory:
+  /Users/xkj/Desktop/算法题/1035/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX
+Call Stack (most recent call first):
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:32 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/CMakeDetermineCXXCompiler.cmake:111 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+-- The CXX compiler identification is AppleClang 12.0.0.12000032
+-- Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc
+-- Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc - works
+-- Detecting C compiler ABI info
+CMake Error: CMAKE_C_COMPILER not set, after EnableLanguage
+CMake Error at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/CMakeDetermineCompilerABI.cmake:48 (try_compile):
+  Failed to configure test project build system.
+Call Stack (most recent call first):
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/CMakeTestCCompiler.cmake:74 (CMAKE_DETERMINE_COMPILER_ABI)
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/xkj/Desktop/算法题/1035/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/Users/xkj/Desktop/算法题/1035/cmake-build-debug/CMakeFiles/CMakeError.log".

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xkj/Desktop/算法题/1007/main.cpp
+iostream
+-
+string.h
+/Users/xkj/Desktop/算法题/1007/string.h
+
